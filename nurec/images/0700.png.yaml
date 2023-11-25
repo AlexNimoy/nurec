@@ -1,0 +1,17 @@
+01 Receipt Number: 194
+02 Receipt Date: 4 апреля 2022 г.
+04 Counterparty:
+  - 04-01 Name: Товарищество с ограниченной ответственностью "Изотех строй"
+    04-02 BIN: 101240016076
+05 Contract: Без договора
+06 Our Company BIN: 991240008188
+07 Counterparty Bank:
+  - 07-01 Bank BIC: SABRKZKA
+    07-02 Current Account IIC: KZ10914398914BC38911
+09 Counterparty Payment Purpose Code: 710
+10 Items Table:
+  - 10-01 Item: Аэратор кровельный A110Y арт.01,079
+    10-02 Unit: шт
+    10-03 Quantity: 6,000
+    10-04 Price: 7 123,00
+    10-05 Amount: 42 738,00

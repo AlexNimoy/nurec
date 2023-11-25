@@ -1,0 +1,14 @@
+01 Receipt Number: AL-338
+02 Receipt Date: 22 февраля 2023 г.
+04 Counterparty:
+  - 04-01 Name: ТОО "FERROOM Almaty"
+    04-02 BIN: 201140004852
+06 Our Company BIN: 991240008188
+07 Counterparty Bank:
+  - 07-01 Bank BIC: KCJBKZKX
+    07-02 Current Account IIC: KZ358562203109740392
+10 Items Table:
+  - 10-01 Item: Почтовый ящик (ПМ-6) S006 (661*258*100) ТАЙНИК KZ
+    10-03 Quantity: 1
+    10-04 Price: 10 000,00
+    10-05 Amount: 10 000,00

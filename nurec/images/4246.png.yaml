@@ -1,0 +1,57 @@
+01 Receipt Number: 00000006309
+02 Receipt Date: 24 декабря 2019 г.
+04 Counterparty:
+  - 04-01 Name: Товарищество с ограниченной ответственностью "Subaru Motor Almaty"
+    04-02 BIN: 100440000292
+05 Contract: Без договора
+06 Our Company BIN: 170240000298
+07 Counterparty Bank:
+  - 07-01 Bank BIC: HSBKKZKX
+    07-02 Current Account IIC: KZ286010131000125348
+09 Counterparty Payment Purpose Code: 859
+10 Items Table:
+  - 10-01 Item: АКТУАТОР ОМЫВАТЕЛЯ ФАР RH
+    10-02 Unit: шт.
+    10-03 Quantity: 1,000
+    10-04 Price: 40 300,00
+    10-05 Amount: 40 300,00
+  - 10-01 Item: КРЫШКА ОМЫВАТЕЛЯ ПРАВ.
+    10-02 Unit: шт.
+    10-03 Quantity: 1,000
+    10-04 Price: 3 400,00
+    10-05 Amount: 3 400,00
+  - 10-01 Item: Разборочно-сборочные работы
+    10-02 Unit: услуги
+    10-03 Quantity: 2,000
+    10-04 Price: 6 500,00
+    10-05 Amount: 13 000,00
+  - 10-01 Item: Подгонка по зазорам
+    10-02 Unit: услуги
+    10-03 Quantity: 1,000
+    10-04 Price: 6 500,00
+    10-05 Amount: 6 500,00
+  - 10-01 Item: Ремонт переднего бампера
+    10-02 Unit: услуги
+    10-03 Quantity: 3,000
+    10-04 Price: 6 500,00
+    10-05 Amount: 19 500,00
+  - 10-01 Item: Покраска переднего бампера
+    10-02 Unit: услуги
+    10-03 Quantity: 6,000
+    10-04 Price: 6 500,00
+    10-05 Amount: 39 000,00
+  - 10-01 Item: Полировка (частично)
+    10-02 Unit: услуги
+    10-03 Quantity: 1,000
+    10-04 Price: 6 500,00
+    10-05 Amount: 6 500,00
+  - 10-01 Item: Подбор коллера
+    10-02 Unit: услуги
+    10-03 Quantity: 0,800
+    10-04 Price: 6 500,00
+    10-05 Amount: 5 200,00
+  - 10-01 Item: Расходные материалы
+    10-02 Unit: услуги
+    10-03 Quantity: 4,200
+    10-04 Price: 6 500,00
+    10-05 Amount: 27 300,00

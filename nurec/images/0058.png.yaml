@@ -1,0 +1,17 @@
+01 Receipt Number: 09
+02 Receipt Date: 27 апреля 2022 г.
+04 Counterparty:
+  - 04-01 Name: ИП "КорганбаеваЛ.А
+    04-02 BIN: 810318400034
+05 Contract: №РТ-2021-1401 от 25.08.2021г.
+06 Our Company BIN: 991240008188
+07 Counterparty Bank:
+  - 07-01 Bank BIC: HZBKKZKX
+    07-02 Current Account IIC: KZ346017131000084926
+09 Counterparty Payment Purpose Code: 821
+10 Items Table:
+  - 10-01 Item: Клининговые услуги
+    10-02 Unit: услуга
+    10-03 Quantity: 1
+    10-04 Price: 174 814,50
+    10-05 Amount: 174814.50

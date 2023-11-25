@@ -1,0 +1,32 @@
+01 Receipt Number: РТ-2022-168-011
+02 Receipt Date: 15 марта 2022 г.
+04 Counterparty:
+  - 04-01 Name: Товарищество с ограниченной ответственностью "STYNERGY"
+    04-02 BIN: 050640001632
+05 Contract: Договор №РТ-2022-168 от 21.02.2022
+06 Our Company BIN: 991240008188
+07 Counterparty Bank:
+  - 07-01 Bank BIC: SABRKZKA
+    07-02 Current Account IIC: KZ56914002203KZ004CB
+09 Counterparty Payment Purpose Code: 710
+10 Items Table:
+  - 10-01 Item: Гнутый элемент №2 L 2 000мм. (RAL 7024 Графитовый серый глянец)
+    10-02 Unit: пог.м
+    10-03 Quantity: 24
+    10-04 Price: 3 250,00
+    10-05 Amount: 78 000,00
+  - 10-01 Item: Гнутый элемент №3 L 2 000мм. (RAL 7024 Графитовый серый глянец)
+    10-02 Unit: пог.м
+    10-03 Quantity: 4
+    10-04 Price: 6 500,00
+    10-05 Amount: 26 000,00
+  - 10-01 Item: Гнутый элемент №5 L 2 500мм. (RAL 7024 Графитовый серый глянец)
+    10-02 Unit: пог.м
+    10-03 Quantity: 25
+    10-04 Price: 6 500,00
+    10-05 Amount: 162 500,00
+  - 10-01 Item: Гнутый элемент №1 L 2 000мм. (RAL 7024 Графитовый серый)
+    10-02 Unit: пог.м
+    10-03 Quantity: 30
+    10-04 Price: 4 250,00
+    10-05 Amount: 127 500,00

@@ -1,0 +1,21 @@
+01 Receipt Number: 004000079
+02 Receipt Date: 04.11.2022
+04 Counterparty:
+  - 04-01 Name: ТОО "Металло-производственная компания"
+    04-02 BIN: 221040000245
+06 Our Company BIN: 991240008188
+07 Counterparty Bank:
+  - 07-01 Bank BIC: KCJBKZKX
+    07-02 Current Account IIC: KZ458562203125717373
+09 Counterparty Payment Purpose Code: 710
+10 Items Table:
+  - 10-01 Item: Труба профильная 60х40х2 мм ГОСТ 8639-82 (0,124к)
+    10-02 Unit: м
+    10-03 Quantity: 42
+    10-04 Price: 1 993,75
+    10-05 Amount: 93 786
+  - 10-01 Item: Труба профильная 80*80*3 (0,086кг)
+    10-02 Unit: м
+    10-03 Quantity: 12
+    10-04 Price: 4 398,21
+    10-05 Amount: 59 112

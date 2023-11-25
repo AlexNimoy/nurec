@@ -1,0 +1,17 @@
+01 Receipt Number: 32413
+02 Receipt Date: 25 ноября 2021 г.
+04 Counterparty:
+  - 04-01 Name: Товарищество с ограниченной ответственностью "Arena S" (Арена S)
+    04-02 BIN: 090840013770
+05 Contract: Безналичный расчет
+06 Our Company BIN: 150940020797
+07 Counterparty Bank:
+  - 07-01 Bank BIC: HSBKKZKX
+    07-02 Current Account IIC: KZ796010131000118707
+09 Counterparty Payment Purpose Code: 710
+10 Items Table:
+  - 10-01 Item: Подарочная карта Sulpak
+    10-02 Unit: шт
+    10-03 Quantity: 1
+    10-04 Price: 50 000,00
+    10-05 Amount: 50 000,00

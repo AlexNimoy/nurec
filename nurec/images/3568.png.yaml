@@ -1,0 +1,27 @@
+01 Receipt Number: 004000118
+02 Receipt Date: 15.11.2022
+04 Counterparty:
+  - 04-01 Name: ТОО "Металло-производственная компания"
+    04-02 BIN: 221040000245
+05 Contract: 'Счет к договору: Алтын Сити №РТ-2022-1902 от 10.11.2022'
+06 Our Company BIN: 991240008188
+07 Counterparty Bank:
+  - 07-01 Bank BIC: KCJBKZKX
+    07-02 Current Account IIC: KZ458562203125717373
+09 Counterparty Payment Purpose Code: 710
+10 Items Table:
+  - 10-01 Item: Труба профильная 60х40х3мм
+    10-02 Unit: т
+    10-03 Quantity: 1.2
+    10-04 Price: 399 107,14
+    10-05 Amount: 536 400
+  - 10-01 Item: Труба профильная 40хх40х3мм
+    10-02 Unit: т
+    10-03 Quantity: 0.7
+    10-04 Price: 399 107,14
+    10-05 Amount: 312 900
+  - 10-01 Item: Труба профильная 15х15х1.5мм
+    10-02 Unit: т
+    10-03 Quantity: 0.6
+    10-04 Price: 467 857,14
+    10-05 Amount: 314 400

@@ -1,0 +1,92 @@
+01 Receipt Number: 203
+02 Receipt Date: 1 марта 2023 г.
+04 Counterparty:
+  - 04-01 Name: Товарищество с ограниченной ответственностью "DiDiAi"
+    04-02 BIN: 220940030188
+05 Contract: ЭК-2022-214 от 20.10.2022г Аспан сити 2
+06 Our Company BIN: 051040013647
+07 Counterparty Bank:
+  - 07-01 Bank BIC: KCJBKZKX
+    07-02 Current Account IIC: KZ428562203125416048
+09 Counterparty Payment Purpose Code: 710
+10 Items Table:
+  - 10-01 Item: Перчатки рабочие
+    10-02 Unit: пара
+    10-03 Quantity: 200,000
+    10-04 Price: 275,00
+    10-05 Amount: 55 000,00
+  - 10-01 Item: Очки защитные
+    10-02 Unit: шт
+    10-03 Quantity: 20,000
+    10-04 Price: 295,00
+    10-05 Amount: 5 900,00
+  - 10-01 Item: Пломба пластик
+    10-02 Unit: шт
+    10-03 Quantity: 500,000
+    10-04 Price: 20,00
+    10-05 Amount: 10 000,00
+  - 10-01 Item: Очиститель для монтажной пены
+    10-02 Unit: шт
+    10-03 Quantity: 20,000
+    10-04 Price: 1 100,00
+    10-05 Amount: 22 000,00
+  - 10-01 Item: Газбалон мини
+    10-02 Unit: шт
+    10-03 Quantity: 20,000
+    10-04 Price: 780,00
+    10-05 Amount: 15 600,00
+  - 10-01 Item: Горелка мини
+    10-02 Unit: шт
+    10-03 Quantity: 10,000
+    10-04 Price: 1 150,00
+    10-05 Amount: 11 500,00
+  - 10-01 Item: Скотч прозрачный 5
+    10-02 Unit: шт
+    10-03 Quantity: 100,000
+    10-04 Price: 740,00
+    10-05 Amount: 74 000,00
+  - 10-01 Item: Маркер чёрный
+    10-02 Unit: шт
+    10-03 Quantity: 100,000
+    10-04 Price: 85,00
+    10-05 Amount: 8 500,00
+  - 10-01 Item: Пассатижи
+    10-02 Unit: шт
+    10-03 Quantity: 6,000
+    10-04 Price: 1 250,00
+    10-05 Amount: 7 500,00
+  - 10-01 Item: Пенопистолет
+    10-02 Unit: шт
+    10-03 Quantity: 20,000
+    10-04 Price: 2 150,00
+    10-05 Amount: 43 000,00
+  - 10-01 Item: Диск отрезной 180
+    10-02 Unit: шт
+    10-03 Quantity: 50,000
+    10-04 Price: 365,00
+    10-05 Amount: 18 250,00
+  - 10-01 Item: Диск отрезной 125
+    10-02 Unit: шт
+    10-03 Quantity: 50,000
+    10-04 Price: 195,00
+    10-05 Amount: 9 750,00
+  - 10-01 Item: Замок навесной
+    10-02 Unit: шт
+    10-03 Quantity: 20,000
+    10-04 Price: 1 450,00
+    10-05 Amount: 29 000,00
+  - 10-01 Item: Валик 10
+    10-02 Unit: шт
+    10-03 Quantity: 20,000
+    10-04 Price: 290,00
+    10-05 Amount: 5 800,00
+  - 10-01 Item: Кисть 10
+    10-02 Unit: шт
+    10-03 Quantity: 20,000
+    10-04 Price: 290,00
+    10-05 Amount: 5 800,00
+  - 10-01 Item: Кисть 5
+    10-02 Unit: шт
+    10-03 Quantity: 20,000
+    10-04 Price: 190,00
+    10-05 Amount: 3 800,00

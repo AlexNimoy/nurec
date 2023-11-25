@@ -1,0 +1,27 @@
+01 Receipt Number: 004000091
+02 Receipt Date: 07.11.2022
+04 Counterparty:
+  - 04-01 Name: ТОО "Металло-производственная компания"
+    04-02 BIN: 221040000245
+05 Contract: 'Счет к договору: Юбилейный №РТ-2022-1904 от 07.11.2022'
+06 Our Company BIN: 991240008188
+07 Counterparty Bank:
+  - 07-01 Bank BIC: KCJBKZKX
+    07-02 Current Account IIC: KZ458562203125717373
+09 Counterparty Payment Purpose Code: 710
+10 Items Table:
+  - 10-01 Item: Швеллер 10 ГОСТ 8240-97
+    10-02 Unit: пог.м
+    10-03 Quantity: 144
+    10-04 Price: 6 287,50
+    10-05 Amount: 1 014 048
+  - 10-01 Item: Уголок 50*50*4мм ГОСТ 8509-93
+    10-02 Unit: пог.м
+    10-03 Quantity: 96
+    10-04 Price: 2 063,39
+    10-05 Amount: 221 856
+  - 10-01 Item: Лист г/к 8мм ст.09Г2С/С345 ГОСТ 19281-2014
+    10-02 Unit: шт
+    10-03 Quantity: 1
+    10-04 Price: 304 227,68
+    10-05 Amount: 340 735

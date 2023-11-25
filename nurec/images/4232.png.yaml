@@ -1,0 +1,17 @@
+01 Receipt Number: 54096
+02 Receipt Date: 01.06.2020 9:51:34
+04 Counterparty:
+  - 04-01 Name: Товарищество с ограниченной ответственностью "Мобайл Телеком-Сервис"
+    04-02 BIN: 041140004799
+05 Contract: договор №89746227
+06 Our Company BIN: 051040013647
+07 Counterparty Bank:
+  - 07-01 Bank BIC: HSBKKZKX
+    07-02 Current Account IIC: KZ426017131000024545
+09 Counterparty Payment Purpose Code: 852
+10 Items Table:
+  - 10-01 Item: Счет на авансовый платеж
+    10-02 Unit: тенге
+    10-03 Quantity: 1
+    10-04 Price: 75880.00
+    10-05 Amount: 75880.00

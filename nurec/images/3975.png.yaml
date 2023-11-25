@@ -1,0 +1,27 @@
+01 Receipt Number: 004000230
+02 Receipt Date: 14.12.2022
+04 Counterparty:
+  - 04-01 Name: ТОО "Металло-производственная компания"
+    04-02 BIN: 221040000245
+05 Contract: 'Счет к договору: Семиречье №РТ-2022-1900 от 14.12.2022'
+06 Our Company BIN: 991240008188
+07 Counterparty Bank:
+  - 07-01 Bank BIC: KCJBKZKX
+    07-02 Current Account IIC: KZ458562203125717373
+09 Counterparty Payment Purpose Code: 710
+10 Items Table:
+  - 10-01 Item: Труба стальная 100х100х4мм
+    10-02 Unit: м
+    10-03 Quantity: 36
+    10-04 Price: 6 279,46
+    10-05 Amount: 253 188
+  - 10-01 Item: Труба стальная 80х80х4мм
+    10-02 Unit: м
+    10-03 Quantity: 36
+    10-04 Price: 5 060,71
+    10-05 Amount: 204 048
+  - 10-01 Item: Уголок равнополочный L80х4мм
+    10-02 Unit: т
+    10-03 Quantity: 0.197
+    10-04 Price: 588 750
+    10-05 Amount: 129 901,80

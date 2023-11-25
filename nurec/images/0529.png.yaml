@@ -1,0 +1,21 @@
+01 Receipt Number: 013001027594
+02 Receipt Date: 7 июля 2021 г.
+04 Counterparty:
+  - 04-01 Name: Филиал Товарищества с ограниченной ответственностью "Alina Group" в г. Алматы
+    04-02 BIN: 060241015368
+05 Contract: Договор ALM-05-1 961-20
+06 Our Company BIN: 991240008188
+07 Counterparty Bank:
+  - 07-01 Bank BIC: SABRKZKA
+    07-02 Current Account IIC: KZ48914002203KZ003SJ
+10 Items Table:
+  - 10-01 Item: Клей AlinEX SET 302, 25 кг (для плитки, стены, пол, бассейны, серый)
+    10-02 Unit: мешок
+    10-03 Quantity: 10
+    10-04 Price: 2 775,30
+    10-05 Amount: 27 753,00
+  - 10-01 Item: Клей AlinEX SET 305, 25 кг (для плитки, стены, пол, бассейны, белый)
+    10-02 Unit: мешок
+    10-03 Quantity: 2
+    10-04 Price: 4 863,30
+    10-05 Amount: 9 727,00

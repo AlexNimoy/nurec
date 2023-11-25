@@ -1,0 +1,32 @@
+01 Receipt Number: № РТ-2022-169-003
+02 Receipt Date: 26 мая 2022 г.
+04 Counterparty:
+  - 04-01 Name: Товарищество с ограниченной ответственностью "STYNEGRY" р/с KZ716017131000004623 в АО Народный Банк Казахстана
+    04-02 BIN: 050640001632
+05 Contract: Договор №РТ-2022-169 от 21.02.2022
+06 Our Company BIN: 991240008188
+07 Counterparty Bank:
+  - 07-01 Bank BIC: HSBKKZKX
+    07-02 Current Account IIC: KZ716017131000004623
+09 Counterparty Payment Purpose Code: 710
+10 Items Table:
+  - 10-01 Item: Гнутый элемент №2 L 3 000мм. (RAL 7024 Графитовый серый глянец)
+    10-02 Unit: пог.м
+    10-03 Quantity: 6
+    10-04 Price: 1 978,00
+    10-05 Amount: 11 868,00
+  - 10-01 Item: Гнутый элемент №1 L 2 000мм. (RAL 7024 Графитовый серый)
+    10-02 Unit: пог.м
+    10-03 Quantity: 8
+    10-04 Price: 7 474,00
+    10-05 Amount: 59 792,00
+  - 10-01 Item: профнастил H57х850х0,60 мм L 6 000мм. (оцинк.)
+    10-02 Unit: пог.м
+    10-03 Quantity: 5
+    10-04 Price: 3 950,00
+    10-05 Amount: 118 500,00
+  - 10-01 Item: ST-ФП Europanel (Г) Стандарт глянец без пленки L 6 000мм. (RAL 7024 Графитовый серый глянец)
+    10-02 Unit: пог.м
+    10-03 Quantity: 20
+    10-04 Price: 1 450,00
+    10-05 Amount: 174 000,00

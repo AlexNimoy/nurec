@@ -1,0 +1,15 @@
+01 Receipt Number: 00000000043
+02 Receipt Date: 24.12.2018 г.
+04 Counterparty:
+  - 04-01 Name: Индивидуальный предприниматель "НАИМ" Айтаев Фарман Кушалиович
+    04-02 BIN: 690730301356
+06 Our Company BIN: 051040013647
+07 Counterparty Bank:
+  - 07-01 Bank BIC: TSESKZKA
+    07-02 Current Account IIC: KZ369982TB0000330094
+10 Items Table:
+  - 10-01 Item: Услуги автокрана
+    10-02 Unit: час
+    10-03 Quantity: 168
+    10-04 Price: 6 500,00
+    10-05 Amount: 1 092 000,00

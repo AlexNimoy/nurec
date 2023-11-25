@@ -1,0 +1,22 @@
+01 Receipt Number: 1000007979
+02 Receipt Date: 27 июня 2022
+04 Counterparty:
+  - 04-01 Name: Товарищество с ограниченной ответственностью "Модуль сталь"
+    04-02 BIN: 150440004056
+05 Contract: РТ-2020-254 от 13.10.2020г
+06 Our Company BIN: 991240008188
+07 Counterparty Bank:
+  - 07-01 Bank BIC: KCJBKZKX
+    07-02 Current Account IIC: KZ808562203117264454
+09 Counterparty Payment Purpose Code: 710
+10 Items Table:
+  - 10-01 Item: Проволка ОК 1,2
+    10-02 Unit: тн
+    10-03 Quantity: 1
+    10-04 Price: 635 000,00
+    10-05 Amount: 635 000,00
+  - 10-01 Item: Прокат арматурный д14мм А500С
+    10-02 Unit: тн
+    10-03 Quantity: 13,82
+    10-04 Price: 325 000,00
+    10-05 Amount: 4 491 500,00

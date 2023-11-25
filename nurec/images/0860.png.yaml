@@ -1,0 +1,17 @@
+01 Receipt Number: 10000001571
+02 Receipt Date: 11 февраля 2022
+04 Counterparty:
+  - 04-01 Name: Товарищество с ограниченной ответственностью " Модуль сталь"
+    04-02 BIN: 150440004056
+05 Contract: РТ-2020-192 от 28.09.2020г ЖК Семиречье
+06 Our Company BIN: 991240008188
+07 Counterparty Bank:
+  - 07-01 Bank BIC: ALFAKZKA
+    07-02 Current Account IIC: KZ699470398990126001
+09 Counterparty Payment Purpose Code: 710
+10 Items Table:
+  - 10-01 Item: Прокат арматурный д22мм А500С
+    10-02 Unit: тн
+    10-03 Quantity: 2,199
+    10-04 Price: 400 000,00
+    10-05 Amount: 879 600,00

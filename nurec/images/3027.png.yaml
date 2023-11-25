@@ -1,0 +1,14 @@
+01 Receipt Number: UCO-8452
+02 Receipt Date: 17 июля 2019 г.
+04 Counterparty:
+  - 04-01 Name: Товарищество с ограниченной ответственностью "IRON COMMERCE COMPANY"
+    04-02 BIN: 081240002456
+06 Our Company BIN: 051040013647
+07 Counterparty Bank:
+  - 07-01 Bank BIC: HSBKKZKX
+    07-02 Current Account IIC: 3K1907UCO00084520002
+10 Items Table:
+  - 10-01 Item: Труба 40*20*1,4 г/к
+    10-03 Quantity: 0,98
+    10-04 Price: 296 000,00
+    10-05 Amount: 290 080,00

@@ -1,0 +1,22 @@
+01 Receipt Number: 2054
+02 Receipt Date: 18 ноября 2022 г.
+04 Counterparty:
+  - 04-01 Name: Товарищество с Ограниченной Ответственностью "СД груп"
+    04-02 BIN: 170340033604
+05 Contract: Договор поставки №РТ-2020-206 от 30 сентября 2020г.
+06 Our Company BIN: 991240008188
+07 Counterparty Bank:
+  - 07-01 Bank BIC: HSBKKZKX
+    07-02 Current Account IIC: KZ34601A861000433751
+09 Counterparty Payment Purpose Code: 710
+10 Items Table:
+  - 10-01 Item: LED ДПО REFLEX 15W 4000K IP20 ЖКХ с датчиком
+    10-02 Unit: шт
+    10-03 Quantity: 25,000
+    10-04 Price: 7 050,00
+    10-05 Amount: 176 250,00
+  - 10-01 Item: LED ДПБ KOMPAS 18W 1350Lm d200x55 4000K IP65 MEGALIGHT (20)
+    10-02 Unit: шт
+    10-03 Quantity: 45,000
+    10-04 Price: 2 440,00
+    10-05 Amount: 109 800,00

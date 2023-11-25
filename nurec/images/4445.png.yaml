@@ -1,0 +1,47 @@
+01 Receipt Number: 4989
+02 Receipt Date: 8 августа 2019 г.
+04 Counterparty:
+  - 04-01 Name: Товарищество с ограниченной ответственностью "Royal Cars"
+    04-02 BIN: 120640008704
+05 Contract: Без договора
+06 Our Company BIN: 170240000298
+07 Counterparty Bank:
+  - 07-01 Bank BIC: ALFAKZKA
+    07-02 Current Account IIC: KZ159470398000089974
+09 Counterparty Payment Purpose Code: 859
+10 Items Table:
+  - 10-01 Item: ФИЛЬТР МАСЛЯНЫЙ
+    10-02 Unit: шт
+    10-03 Quantity: 1
+    10-04 Price: 2 200,00
+    10-05 Amount: 2 200,00
+  - 10-01 Item: ФИЛЬТР ВОЗДУШНЫЙ
+    10-02 Unit: шт
+    10-03 Quantity: 1
+    10-04 Price: 9 800,00
+    10-05 Amount: 9 800,00
+  - 10-01 Item: ФИЛЬТР САЛОННЫЙ
+    10-02 Unit: шт
+    10-03 Quantity: 1
+    10-04 Price: 4 400,00
+    10-05 Amount: 4 400,00
+  - 10-01 Item: УПЛОТНИТЕЛЬ МАСЛЯННОГО ПОДДОНА
+    10-02 Unit: шт
+    10-03 Quantity: 1
+    10-04 Price: 500,00
+    10-05 Amount: 500,00
+  - 10-01 Item: МАСЛО МОТОРНОЕ 5W30 SL 208л (по 1л)
+    10-02 Unit: л
+    10-03 Quantity: 4,5
+    10-04 Price: 2 600,00
+    10-05 Amount: 11 700,00
+  - 10-01 Item: ТО 30000
+    10-02 Unit: н/ч
+    10-03 Quantity: 1,5
+    10-04 Price: 8 500,00
+    10-05 Amount: 12 750,00
+  - 10-01 Item: Мойка двигателя
+    10-02 Unit: н/ч
+    10-03 Quantity: 0,4
+    10-04 Price: 8 500,00
+    10-05 Amount: 3 400,00

@@ -1,0 +1,17 @@
+01 Receipt Number: 04
+02 Receipt Date: 18.03.2020
+04 Counterparty:
+  - 04-01 Name: ИП Семибратов "Тор Tendency"
+    04-02 BIN: 720531301927
+05 Contract: Без договора
+06 Our Company BIN: 150940020797
+07 Counterparty Bank:
+  - 07-01 Bank BIC: ALMNKZKA
+    07-02 Current Account IIC: KZ28826A1KZTD2000928
+09 Counterparty Payment Purpose Code: 859
+10 Items Table:
+  - 10-01 Item: Видеосъемка и монтаж видеоролика
+    10-02 Unit: час
+    10-03 Quantity: 10,0
+    10-04 Price: 10 000,00
+    10-05 Amount: 100 000,00

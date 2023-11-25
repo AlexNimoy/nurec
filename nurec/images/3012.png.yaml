@@ -1,0 +1,32 @@
+01 Receipt Number: 004000096
+02 Receipt Date: 10.11.2022
+04 Counterparty:
+  - 04-01 Name: ТОО "Металло-производственная компания"
+    04-02 BIN: 221040000245
+05 Contract: 'Счет к договору: Семиречье NоРТ-2022-1900 от 10.11.2022'
+06 Our Company BIN: 991240008188
+07 Counterparty Bank:
+  - 07-01 Bank BIC: KCJBKZKX
+    07-02 Current Account IIC: KZ458562203125717373
+09 Counterparty Payment Purpose Code: 710
+10 Items Table:
+  - 10-01 Item: Труба профильная 100x100x4мм ГОСТ 8639-82
+    10-02 Unit: т
+    10-03 Quantity: 0,425
+    10-04 Price: 543 616,07
+    10-05 Amount: 258 761,25
+  - 10-01 Item: Труба профильная 80x80x4мм ГОСТ 8639-82
+    10-02 Unit: т
+    10-03 Quantity: 0,384
+    10-04 Price: 543 616,07
+    10-05 Amount: 233 798,40
+  - 10-01 Item: Лист 2 мм г/к(1000*2000) ГОСТ 19281-2014
+    10-02 Unit: т
+    10-03 Quantity: 0,267
+    10-04 Price: 457 955,36
+    10-05 Amount: 136 946,97
+  - 10-01 Item: Уголок L80x4мм ГОСТ 8509-93
+    10-02 Unit: т
+    10-03 Quantity: 0,197
+    10-04 Price: 608 410,71
+    10-05 Amount: 134 239,74

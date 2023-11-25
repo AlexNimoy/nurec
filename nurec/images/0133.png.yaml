@@ -1,0 +1,21 @@
+01 Receipt Number: 013001009772
+02 Receipt Date: 11 марта 2020 г.
+04 Counterparty:
+  - 04-01 Name: Филиал Товарищества с ограниченной ответственностью "Alina Group" в г. Алматы
+    04-02 BIN: 060241015368
+05 Contract: Договор ALM-05-1 609-19
+06 Our Company BIN: 051040013647
+07 Counterparty Bank:
+  - 07-01 Bank BIC: SABRKZKA
+    07-02 Current Account IIC: KZ48914002203KZ003SJ
+10 Items Table:
+  - 10-01 Item: Шпатлевка AlinEX FINISH, 25кг (клеевая)
+    10-02 Unit: мешок
+    10-03 Quantity: 40
+    10-04 Price: 2 321,76
+    10-05 Amount: 92 870,00
+  - 10-01 Item: Шпатлевка AlinEX GLATT, 25кг (гипсовая)
+    10-02 Unit: мешок
+    10-03 Quantity: 60
+    10-04 Price: 2 305,80
+    10-05 Amount: 138 348,00

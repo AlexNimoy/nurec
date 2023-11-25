@@ -1,0 +1,15 @@
+01 Receipt Number: 7
+02 Receipt Date: 28 мая 2020 г.
+04 Counterparty:
+  - 04-01 Name: ИП "Абдикадирова Гульнара Тулеубековна"
+    04-02 BIN: 730421400176
+05 Contract: Согласно договору аренды от 10.12.2019г.
+07 Counterparty Bank:
+  - 07-01 Bank BIC: KCJBKZKX
+    07-02 Current Account IIC: KZ188562204101288957
+10 Items Table:
+  - 10-01 Item: Предоплата аренды квартиры за июнь 2020г. согласно Догвору аренды от 10.12.2019г.
+    10-02 Unit: 1
+    10-03 Quantity: 1
+    10-04 Price: 320 000,00
+    10-05 Amount: 320 000,00

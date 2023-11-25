@@ -1,0 +1,32 @@
+01 Receipt Number: 1000007050
+02 Receipt Date: 08 июня 2022
+04 Counterparty:
+  - 04-01 Name: Товарищество с ограниченной ответственностью " Модуль сталь"
+    04-02 BIN: 150440004056
+05 Contract: PT-2020-186 от 24.09.2020г Алтын Сити(Бухтарма)
+06 Our Company BIN: 991240008188
+07 Counterparty Bank:
+  - 07-01 Bank BIC: KCJBKZKX
+    07-02 Current Account IIC: KZ808562203117264454
+09 Counterparty Payment Purpose Code: 710
+10 Items Table:
+  - 10-01 Item: Прокат арматурный д10мм А500С
+    10-02 Unit: тн
+    10-03 Quantity: 4,037
+    10-04 Price: 365 000,00
+    10-05 Amount: 1 473 505,00
+  - 10-01 Item: Прокат арматурный д12мм А500С
+    10-02 Unit: тн
+    10-03 Quantity: 4,634
+    10-04 Price: 355 000,00
+    10-05 Amount: 1 645 070,00
+  - 10-01 Item: Прокат арматурный д18мм А500С
+    10-02 Unit: тн
+    10-03 Quantity: 5,224
+    10-04 Price: 350 000,00
+    10-05 Amount: 1 828 400,00
+  - 10-01 Item: Катанка 8 тян
+    10-02 Unit: тн
+    10-03 Quantity: 2,47
+    10-04 Price: 380 000,00
+    10-05 Amount: 938 600,00

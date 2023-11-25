@@ -1,0 +1,17 @@
+01 Receipt Number: 00000000055
+02 Receipt Date: 15 февраля 2022 г.
+04 Counterparty:
+  - 04-01 Name: Exclusive Trade KZ (Эксклюзив Трейд КЗ) Товарищество с ограниченной ответственностью
+    04-02 BIN: 180140002351
+05 Contract: ЭК-2022-08 от 11.02.2022
+06 Our Company BIN: 051040013647
+07 Counterparty Bank:
+  - 07-01 Bank BIC: SABRKZKA
+    07-02 Current Account IIC: KZ76914002203KZ007E8
+09 Counterparty Payment Purpose Code: 859
+10 Items Table:
+  - 10-01 Item: Внутренние отделочные работы
+    10-02 Unit: шт
+    10-03 Quantity: 1,000
+    10-04 Price: 904 754,40
+    10-05 Amount: 904 754,40
