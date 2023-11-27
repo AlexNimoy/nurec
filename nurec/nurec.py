@@ -1,6 +1,7 @@
 import yaml         # для работы с YAML
 import os           # для работы с операционной системой
 import Levenshtein  # для вычисления расстояния Левенштейна между строками
+import gdown        # загрузка с Google Drive
 
 class Nurec:
     """
@@ -96,24 +97,21 @@ class Nurec:
         """
         return self.mismatched_chars
 
-    def get_verification_images(self):
-        """
-        Метод для возвращения списка путей до изображений ".png" в выбранной дирректории
-        """
-        verification_images = []
-        path_to_images = r'Путь до папки с изображениями'
+class GDriveDataFetcher:
+    def __init__(self, folder_id, extract_to='dataset'):
+        self.folder_id = folder_id
+        self.extract_to = extract_to
 
-        for filename in os.listdir(path_to_images):
-            if filename.endswith(".png"):
-                verification_images.append(os.path.join(path_to_images, filename))
+    def download_and_extract(self):
+        # Создание директории, если она не существует
+        if not os.path.exists(self.extract_to):
+            os.makedirs(self.extract_to)
 
-        return verification_images
+        gdown.download_folder(self.folder_id, output=self.extract_to, quiet=False, use_cookies=False, remaining_ok=True)
 
-    def save_to_file(self, file_path):
-        """
-        Метод создания текстового файла содержащего список путей до изображений ".png"
-        """
-        verification_images_list = self.get_verification_images()
-        with open(file_path, 'w') as file:
-            for image_path in verification_images_list:
-                file.write(image_path + '\n')
+    def get_file_list(self):
+        file_paths = []
+        for root, directories, files in os.walk(self.extract_to):
+            for filename in files:
+                file_paths.append(os.path.join(root, filename))
+        return file_paths
