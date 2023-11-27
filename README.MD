@@ -8,11 +8,11 @@
 
 ```bash
 !pip install git+https://github.com/AlexNimoy/nurec.git
-
-from nurec import Nurec
 ```
 
 ```python
+from nurec import Nurec
+
 recognized_data = [{<JSON_PARAMS>}, {...}]
 
 result = Nurec(recognized_data)
@@ -104,6 +104,20 @@ Number
 | 10.3 | Количество                         | 10-03 Quantity                       |
 | 10.4 | Цена                               | 10-04 Price                          |
 | 10.5 | Сумма                              | 10-05 Amount                         |
+
+## Скачивание датасета
+
+```python
+from nurec import GDriveDataFetcher
+
+# Download dataset
+fetcher = GDriveDataFetcher('URL_TO_GOOGLE_DRIVE')
+fetcher.download_and_extract()
+
+# Get dataset list
+file_list = fetcher.get_file_list()
+print(file_list)
+```
 
 ## Как отправить pull request (Contribute)
 
