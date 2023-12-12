@@ -43,18 +43,19 @@ class Nurec:
                         for i, item in enumerate(value):            # обходим каждый элемент списка
                             for sub_key, sub_value in item.items(): # перебор ключа и значения внутри элемента списка
                                 if sub_key in yaml_data[key][i]:    # если ключ есть в YAML вызывается метод сравнения
-                                    self.compare_values(sub_value, yaml_data[key][i][sub_key], file_name, sub_key)
+                                    self.compare_values(str(sub_value), str(yaml_data[key][i][sub_key]), file_name, sub_key)
                     else:                                           # если значение не список вызывается метод сравнения сразу
-                        self.compare_values(value, yaml_data[key], file_name, key)
+                        self.compare_values(str(value), str(yaml_data[key]), file_name, key)
 
-    def compare_values(self, recognized_value, yaml_value, file_name, key_name):
+    def compare_values(self, recognized_value: str, yaml_value: str, file_name: str, key_name: str):
         """
         Метод для сравнения значений и обновления атрибутов
         recognized_value - распознанные JSON данные, имеющиеся в YAML
         yaml_value - данные YAML файла
         key_name - совпадающий ключ JSON и YAML
         """
-        self.total_chars += max(len(str(recognized_value)), len(str(yaml_value))) # Увеличивает общее количество символов на максимум JSON или YAML
+
+        self.total_chars += max(len(recognized_value), len(yaml_value))     # Увеличивает общее количество символов на максимум JSON или YAML
         mismatched = False                                                  # Устанавливаем флаг "отсутствие ошибок" по умолчанию
         lev_distance = Levenshtein.distance(recognized_value, yaml_value)   # Вычисление расстояния Левенштейна (количество вставок, удалений или замен, чтобы JSON==YAML)
         self.mismatched_chars += lev_distance                               # Увеличиваем ошибку на количество ошибок Левенштейна
