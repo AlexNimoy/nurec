@@ -54,7 +54,7 @@ class Nurec:
         yaml_value - данные YAML файла
         key_name - совпадающий ключ JSON и YAML
         """
-        self.total_chars += max(len(recognized_value), len(yaml_value))     # Увеличивает общее количество символов на максимум JSON или YAML
+        self.total_chars += max(len(str(recognized_value)), len(str(yaml_value))) # Увеличивает общее количество символов на максимум JSON или YAML
         mismatched = False                                                  # Устанавливаем флаг "отсутствие ошибок" по умолчанию
         lev_distance = Levenshtein.distance(recognized_value, yaml_value)   # Вычисление расстояния Левенштейна (количество вставок, удалений или замен, чтобы JSON==YAML)
         self.mismatched_chars += lev_distance                               # Увеличиваем ошибку на количество ошибок Левенштейна
